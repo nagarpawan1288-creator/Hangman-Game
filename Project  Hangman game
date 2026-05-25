@@ -1,4 +1,4 @@
-from wordslist import words
+
 import random
 stages =                     {0: ("   ",
                                    "   ",
